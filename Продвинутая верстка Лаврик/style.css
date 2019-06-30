@@ -1,24 +1,33 @@
+* {}
+
 .content {
   display: flex;
   flex-flow: column wrap;
-  background: #cccccc;
+  background: #123;
+  color: white;
 }
 
 .column-1 {
   width: 100px;
   height: 20px;
-  align-items: center;
-  background: #cccccc;
+  align-items: flex-start;
+  justify-content: center;
+  background: #cf2d2d;
+  border: 3px solid rgb(41, 170, 127);
 }
 
 .column-2 {
-  width: 10px;
+  width: 200px;
   height: 40px;
-  background: #cccccc;
+  align-self: center;
+  background: #214166;
+  border: 3px solid rgb(17, 85, 62);
 }
 
 .column-3 {
-  width: 100px;
+  width: 300px;
   height: 20px;
+  align-self: flex-end;
   justify-content: flex-end;
+  border: 3px solid rgb(122, 224, 190);
 }
