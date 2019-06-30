@@ -21,3 +21,5 @@ function ld() {
     return;
 }
 ld(2);
+
+confirm(aads);
