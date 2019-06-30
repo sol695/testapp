@@ -1,0 +1,24 @@
+.content {
+  display: flex;
+  flex-flow: column wrap;
+  background: #cccccc;
+}
+
+.column-1 {
+  width: 100px;
+  height: 20px;
+  align-items: center;
+  background: #cccccc;
+}
+
+.column-2 {
+  width: 10px;
+  height: 40px;
+  background: #cccccc;
+}
+
+.column-3 {
+  width: 100px;
+  height: 20px;
+  justify-content: flex-end;
+}
