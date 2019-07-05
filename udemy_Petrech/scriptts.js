@@ -1,4 +1,4 @@
-// TODO: Petrech 02/ 09
+// TODO: Petrech 02/ 10
 //* while
 
 let money, time;
