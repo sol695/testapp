@@ -4,8 +4,7 @@ console.log('lasd');
 sayHellos('Alex', 'Nico');
 sayHellos('Feel', 'Richard');
 
-function sayHellos(name, family) {
-  // console.log('Hi ' + name + ' ' + family);
+function sayHellos(name, family) { // console.log('Hi ' + name + ' ' + family);
   console.log(`Hi ${name} ${family}`);
 }
 */
