@@ -1,4 +1,4 @@
-/* 
+/*
 ?asdfj
 !askdfj;
 *adsf
@@ -7,7 +7,7 @@ alsdfj
 * {
   background:rgb(32, 30, 30);
 }
-
+/*  */
 .content {
   display: flex;
   flex-flow: column wrap;
