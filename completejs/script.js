@@ -2,10 +2,7 @@
 //?
 //@
 //*
-//todo asdlkfj
-// todo askldjf
 // TODO: asdfkj
-//ToDo adsfl
 
 'use scripts';
 
@@ -245,4 +242,6 @@ let mike = {
 };
 
 mike.calculationAge = john.calculationAge;
+
+//! DRY Principle
 

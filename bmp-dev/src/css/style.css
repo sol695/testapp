@@ -1,0 +1,53 @@
+/*
+? asdfj
+!askdfj;
+*adsf
+alsdfj
+*/
+* {
+  background: rgb(32, 30, 30);
+}
+
+/*  */
+.content {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  background: #123;
+  color: white;
+}
+
+.column-1 {
+  width: 100px;
+  height: 20px;
+  align-items: flex-start;
+  /* justify-content: center; */
+  background: #cf2d2d;
+  border: 3px solid rgb(41, 170, 127);
+}
+
+.column-2 {
+  width: 200px;
+  height: 40px;
+  align-self: center;
+  background: #214166;
+  border: 3px solid rgb(17, 85, 62);
+}
+
+.column-3 {
+  width: 300px;
+  height: 20px;
+  align-self: flex-end;
+  justify-content: flex-end;
+  border: 3px solid rgb(122, 224, 190);
+}
+
+@media screen and (max-width: 860px) {
+  .item {
+    width: calc(100% - 10px);
+  }
+
+  .item:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+}

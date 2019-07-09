@@ -1,19 +1,21 @@
 // TODO: Petrech 02/ 13
 //* while
 //? TASK 1
+//!
+
+// Функциональное программирование
 
 let money, time;
 
 function start() {
   money = +prompt('Your budjet on month', '');
   time = +prompt('enter to date in format Y-M-D', '');
-  while (isNaN(money) || money === "" || money == null) {
+  while (isNaN(money) || money === '' || money == null) {
     money = +prompt('Your budjet on month', '');
   }
 }
 
 start();
-
 
 let appData = {
   budjet: money,
@@ -21,50 +23,60 @@ let appData = {
   expenses: {},
   optionalExpenses: {},
   income: [],
-  saving: false
-};
+  saving: false,
+  chooseExpenses: function() {
+    for (let i = 0; i < 2; i++) {
+      let a = prompt('Введите обязательную статью расходов в этом месяце',
+          ''),
+          b = prompt('Во сколько обойдется?', '');
 
-function chooseExpenses() {
-  for (let i = 0; i < 2; i++) {
-    let one = prompt("Введите обязательную статью расходов в этом месяце", ""),
-      two = prompt("Во сколько обойдется?", "");
-    if ((typeof (one)) === 'string' && (typeof (a)) != null && (typeof (b)) != null &&
-      a !== '' && b !== '' && a.length < 50) {
-      console.log('done');
+      if ((typeof (a)) != null && (typeof (b)) != null && a !== '' && b !==
+          '' && a.length < 50) {
+        console.log('верно');
 
-      appData.expenses[one] = two;
-    } else {
-
+        appData.expenses[a] = b;
+      } else {
+        i -= 1;
+      }
     }
-  }
-}
+  },
+  detectDayBudget: function() {
+    appData.moneyPerDay = (appData.budjet / 30).toFixed();
+    alert('Ежедневный бюджет: ' + appData.moneyPerDay);
+  },
+  detectLevel: function() {
+    if (appData.moneyPerDay < 100) {
+      console.log('minimum lvl');
+    } else if (appData.moneyPerDay > 100 && appData.moneyPerDay < 200) {
+      console.log('Middle lvl');
+    } else if (appData.moneyPerDay > 2000) {
+      console.log('Hight lvl');
+    } else {
+      console.log('Error in Questions');
+    }
+  },
+  checkSaving: function() {
+    if (appData.saving === true) {
+      let save = +prompt('Какова сумма накопления', ''),
+          percent = +prompt('Под какой процент?', '');
 
-chooseExpenses();
-
-
-appData.moneyPerDay = appData.budjet / 30;
-alert('Ежедневный бюджет: ' + appData.moneyPerDay);
-
-if (appData.moneyPerDay < 100) {
-  console.log('minimum lvl');
-} else if (appData.moneyPerDay > 100 && appData.moneyPerDay < 200) {
-  console.log('Middle lvl');
-} else if (appData.moneyPerDay > 2000) {
-  console.log('Hight lvl');
-} else {
-  console.log('Error in Questions');
-}
-
-function checkSaving() {
-  if (appData.saving === true) {
-    let save = +prompt('Какова сумма накопления'),
-      percent = +prompt('Под какой процент?');
-
-    appData.monthIncome = save / 100 / 12 * percent;
-    alert("Доход в месяц с вашего депозита: " + appData.monthIncome);
-  }
+      appData.monthIncome = save / 100 / 12 * percent;
+      alert('Доход в месяц с вашего депозита: ' + appData.monthIncome);
+    }
+  },
+  chooseOptExpenses: function() {
+    for (let i = 1; i < 3; i++) {
+      appData.optionalExpenses[i] = prompt('Stats neobezatelns rashodov', '');
+    }
+  },
+  chooseIncome: function() {
+    let items = prompt('What принесет дополнительный доход?', '');
+    appData.incom = items.split(', ');
+    appData.income.push(prompt('Perhapse can i help?'));
+    appData.income.sort();
+  },
 };
-checkSaving();
+
 //* do while
 let num = [1, 23, 4, 54, 5, 345, 6, 24, 5, 23, 3];
 do {
@@ -75,7 +87,7 @@ while (num < 55);
 
 for (let i = 1; i < 8; i++) {
   if (i === 6) {
-    continue
+    continue;
   }
   console.log(i);
 }
@@ -90,7 +102,7 @@ function retVar() {
 }
 
 let anotherNum = retVar();
-console.log(anotherNum)
+console.log(anotherNum);
 
 let twelve = '12.3';
 console.log(parseInt(twelve));
@@ -124,7 +136,8 @@ arr.unshift('2');
 // for (let i = 0; i < arr.length; i++) {
 //     console.log(arr[i]);
 // }
-arr.forEach(function (item, i, mass) {
+
+arr.forEach(function(item, i, mass) {
   console.log(i + ': ' + item + ' (massiv: ' + mass + ')');
 });
 
@@ -135,8 +148,12 @@ for (let key of mass) {
   console.log(key);
 }
 
-let ans = prompt("", ""),
-  arrs = [];
+let ans = prompt('', ''),
+    arrs = [];
 
 // arrs = arrs.split(',');
-console.log(arrs);
+console.log(ans, arrs);
+
+//? oop
+
+

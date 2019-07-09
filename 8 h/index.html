@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Speech synthesiser</title>
+  <style>
+    body, html {
+      margin: 0;
+    }
+
+    html {
+      height: 100%;
+    }
+
+    body {
+      height: 90%;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1, p {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .txt, select, form > div {
+      display: block;
+      margin: 0 auto;
+      font-family: sans-serif;
+      font-size: 16px;
+      padding: 5px;
+    }
+
+    .txt {
+      width: 80%;
+    }
+
+    select {
+      width: 83%;
+    }
+
+    form > div {
+      width: 81%;
+    }
+
+    .txt, form > div {
+      margin-bottom: 10px;
+      overflow: auto;
+    }
+
+    .clearfix {
+      clear: both;
+    }
+
+    label {
+      float: left;
+      width: 10%;
+      line-height: 1.5;
+    }
+
+    .rate-value, .pitch-value {
+      float: right;
+      width: 5%;
+      line-height: 1.5;
+    }
+
+    #rate, #pitch {
+      float: right;
+      width: 81%;
+    }
+
+    .controls {
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .controls button {
+      padding: 10px;
+    }
+  </style>
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+<h1>Speech synthesiser</h1>
+
+<p>Enter some text in the input below and press return or the "play" button to hear it. change voices using the dropdown
+  menu.</p>
+
+<form>
+  <label>
+    <input type="text" class="txt">
+  </label>
+  <div>
+    <label for="rate">Rate</label><input type="range" min="0.5" max="2" value="1" step="0.1" id="rate">
+    <div class="rate-value">1</div>
+    <div class="clearfix"></div>
+  </div>
+
+  <div>
+    <label for="pitch">Pitch</label><input type="range" min="0" max="2" value="1" step="0.1" id="pitch">
+    <div class="pitch-value">1</div>
+    <div class="clearfix"></div>
+  </div>
+  <label>
+    <select>
+
+    </select>
+  </label>
+  <div class="controls">
+    <button id="play" type="submit">Play</button>
+  </div>
+</form>
+
+<button onclick="buttonClick()">Click me</button>
+<h2 id="heading2">Some Random Text</h2>
+
+<label for="text1">
+  <input type="text" id="text1" placeholder="Enter any">
+</label>
+<br>
+<button onclick="fn1()" id="btn1">Click me</button>
+<br>
+<label>
+  <input type="radio" name="grp1" value="Simple Learn">Simple
+  <br>
+  <input type="radio" name="grp1" value="Simple Learn">Simple
+</label><br>
+<button>Click me too</button>
+
+<p id="p1">This is paragraph 1</p>
+<p>Lorem ipsum dolor.</p>
+<p>Lorem ipsum dolor.</p>
+<p>Lorem ipsum dolor it amet.</p>
+<p>Lorem ipsum dolor.</p>
+
+<button onclick="changeStyling()">Click me tooo</button>
+
+
+<span onmouseover="setNewColor()" onmouseout="setOldColor()" class="colors_span">Text</span>
+<br><br><br><br>
+
+<form action="index.html">
+  <label for="uname">
+    <input type="text" id="uname" placeholder="Username"><br><br>
+  </label><br><br>
+  <label style="color:red;visibility: hidden" id="lbluser">Invalid Username</label>
+  <button type="button" onclick="validate()">Submit</button>
+  <br><br>
+</form>
+
+<button onclick="start()" id="btnAdd">Start</button>
+<h2 id="op">Some text</h2>
+<button onclick="stop()" id="btnStop">Stop</button>
+
+<br><br><br><br>
+
+<button onclick="fadeOut()" id="btnAdds">Fade Out</button>
+<span id="img1" style="opacity: 0.4">Some text</span>
+<button onclick="fadeIn()" id="btnStops">Fade In</button>
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--k-->
+
+<script src="script.js"></script>
+</body>
+</html>

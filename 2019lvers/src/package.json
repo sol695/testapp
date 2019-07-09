@@ -1,0 +1,20 @@
+{
+  "name": "Lavrick_Ad_Vers",
+  "version": "1.0.0",
+  "main": "../gulpfile.js",
+  "dependencies": {
+    "gulp-cli": "^2.2.0",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

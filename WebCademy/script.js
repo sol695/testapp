@@ -23,7 +23,6 @@ function sayHellos(name, family) { // console.log('Hi ' + name + ' ' + family);
 // sayHello1(person1);
 // sayHello1(person2);
 
-
 // function sayHello1(person) {
 //   // console.log('Hi ' + name + ' ' + family);
 //   console.log(`Hi ${person1.name} ${person2.family}`);
@@ -78,8 +77,6 @@ person4.sayHello2();
 // person1.sayHello();
 // person2.sayHello();
 
-
-
 // ? use Class
 
 // function Person(name, family, age) {
@@ -97,8 +94,7 @@ person4.sayHello2();
 // person.sayHello();
 // console.log(person.car); //* prototype
 
-
-// ? use Prototype function in Class 
+// ? use Prototype function in Class
 // function Personal(name, family, age) {
 //   this.name = name,
 //     this.family = family,
@@ -114,7 +110,6 @@ person4.sayHello2();
 
 // person1.sayHello();
 // person2.sayHello();
-
 
 //* static - самому классу относится
 // ? use static
@@ -138,9 +133,6 @@ person4.sayHello2();
 // person2.sayHello();
 // console.log(Personal.count);
 
-
-
-
 // ? use es6 Class
 
 /**
@@ -149,19 +141,19 @@ person4.sayHello2();
  * @class Person
  */
 class Person {
-    constructor(name, family, age) {
-        this.name = name,
-            this.family = family,
-            this.age = age
-    }
-    sayHello() {
-        console.log(`Hi frends my name is ${this.name} ${this.family} ${this.age}`);
-    }
+  constructor(name, family, age) {
+    this.name = name,
+        this.family = family;
+    this.age = age;
+  }
+
+  sayHello() {
+    console.log(`Hi frends my name is ${this.name} ${this.family} ${this.age}`);
+  }
 }
 
 const person1 = new Person('Allina', 'Dunkina', 22);
 person1.sayHello();
-
 
 // ? use Class extends
 
@@ -199,16 +191,16 @@ console.log('asdf');
 
 //!  codewars js tasks
 //* вернуть числа которые возвращает положительные из отрицательных
-invert([1, 2, 3, 4, 5]) == [-1, -2, -3, -4, -5];
-
+//* invert([1, 2, 3, 4, 5]) === [-1, -2, -3, -4, -5];
 
 function invert(array) {
-    // new
-    return array.map(a => !a ? a : a * -1);
-    // long
-    //     for (let i = 0; i < array.length; i++) {
-    //         if (!array[i]) continue;
-    //         array[i] = array[i] * -1;
-    //     }
-    //     return array;
+  // new
+  return array.map(a => !a ? a : a * -1);
+  // long
+  //     for (let i = 0; i < array.length; i++) {
+  //         if (!array[i]) continue;
+  //         array[i] = array[i] * -1;
+  //     }
+  //     return array;
 }
+invert();

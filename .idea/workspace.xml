@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$APPLICATION_CONFIG_DIR$/scratches/phpstorm better comands.md" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7fc0e6-bd66-4e34-b15c-912333e7b20c" name="Default Changelist" comment="and changes 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todogfilter.xml" afterDir="false" />
+    <list default="true" id="cb7fc0e6-bd66-4e34-b15c-912333e7b20c" name="Default Changelist" comment="k">
+      <change afterPath="$PROJECT_DIR$/2019lvers/src/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019lvers/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019lvers/src/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019lvers/src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 h/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 h/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/css/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/css/humans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmp-dev/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/completejs/pig game/challenges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/completejs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/completejs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebCademy/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebCademy/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/completejs/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/completejs/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy_Petrech/scriptts.js" beforeDir="false" afterPath="$PROJECT_DIR$/udemy_Petrech/scriptts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw1/img/fb.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw1/img/fb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw1/img/tw.png" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw1/img/tw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/img/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/img/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw2/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/img/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/img/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw3/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/hw3/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Продвинутая верстка Лаврик/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/2019lvers/src/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +86,55 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/udemy_Petrech/scriptts.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completejs/pig game/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/completejs/pig game/challenges.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completejs/pig game/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completejs/pig game/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>выдел</find>
+      <find>todo</find>
+      <find>adsf</find>
+      <find>if</find>
+      <find>k</find>
+      <find>npm</find>
+      <find>disp</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,21 +142,60 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
-        <option value="$PROJECT_DIR$/completejs/index.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
-        <option value="$PROJECT_DIR$/completejs/script.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions" />
+        <option value="$PROJECT_DIR$/htmlacademy lvl3/index.html" />
+        <option value="$PROJECT_DIR$/htmlacademy lvl3/styles.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
+        <option value="$PROJECT_DIR$/completejs/index.html" />
+        <option value="$PROJECT_DIR$/Продвинутая верстка Лаврик/style.css" />
+        <option value="$PROJECT_DIR$/Продвинутая верстка Лаврик/hw1/styles.css" />
+        <option value="$PROJECT_DIR$/js in 90 minutes/index.html" />
+        <option value="$PROJECT_DIR$/js in 90 minutes/script.js" />
+        <option value="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/phpstorm better comands.md" />
+        <option value="$PROJECT_DIR$/8 h/index.html" />
+        <option value="$PROJECT_DIR$/8 h/script.js" />
+        <option value="$PROJECT_DIR$/WebCademy/script.js" />
+        <option value="$PROJECT_DIR$/Продвинутая верстка Лаврик/index.html" />
+        <option value="$PROJECT_DIR$/Продвинутая верстка Лаврик/package.json" />
+        <option value="$PROJECT_DIR$/Lavrick_Ad_Vers/gulpfile.js" />
+        <option value="$PROJECT_DIR$/Lavrick_Ad_Vers/src/index.html" />
+        <option value="$PROJECT_DIR$/Lavrick_Ad_Vers/package.json" />
+        <option value="$PROJECT_DIR$/2019lvers/package.json" />
+        <option value="$PROJECT_DIR$/completejs/script.js" />
+        <option value="$PROJECT_DIR$/udemy_Petrech/index.html" />
         <option value="$PROJECT_DIR$/udemy_Petrech/scriptts.js" />
+        <option value="$PROJECT_DIR$/2019lvers/build/css/style.css" />
+        <option value="$PROJECT_DIR$/bmp-dev/gulpfile.js" />
+        <option value="$PROJECT_DIR$/bmp-dev/src/css/humans.css" />
+        <option value="$PROJECT_DIR$/bmp-dev/src/index.html" />
+        <option value="$PROJECT_DIR$/2019lvers/gulpfile.js" />
+        <option value="$PROJECT_DIR$/2019lvers/src/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/completejs/pig game/app.js" />
+        <option value="$PROJECT_DIR$/completejs/pig game/style.css" />
+        <option value="$PROJECT_DIR$/completejs/pig game/index.html" />
+        <option value="$PROJECT_DIR$/completejs/pig game/challenges.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="795" />
-    <option name="y" value="259" />
-    <option name="width" value="819" />
-    <option name="height" value="510" />
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="447" />
+    <option name="y" value="254" />
+    <option name="width" value="642" />
+    <option name="height" value="481" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,22 +210,77 @@
               <item name="projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="completejs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="completejs" type="462c0819:PsiDirectoryNode" />
+              <item name="pig game" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/projects" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="HOTFIX_customHotfixCommitMessage_text" value="Tagging hotfix %name%" />
+    <property name="RELEASE_customTagCommitMessage_text" value="Tagging version %name%" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowFind.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bmp-dev" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
     <property name="settings.editor.splitter.proportion" value="0.1978022" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bmp-dev/src" />
+      <recent name="$PROJECT_DIR$/Lavrick_Ad_Vers" />
+      <recent name="$PROJECT_DIR$/Lavrick_Ad_Vers/src" />
+      <recent name="$PROJECT_DIR$/Lavrick_Ad_Vers/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bmp-dev" />
+      <recent name="$PROJECT_DIR$/Lavrick_Ad_Vers/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,15 +327,45 @@
       <workItem from="1562445750701" duration="5830000" />
       <workItem from="1562451670717" duration="696000" />
       <workItem from="1562478365381" duration="3660000" />
-      <workItem from="1562482639593" duration="2623000" />
+      <workItem from="1562482639593" duration="15972000" />
+      <workItem from="1562567903663" duration="8431000" />
+      <workItem from="1562582805541" duration="10153000" />
+      <workItem from="1562603208937" duration="84000" />
+      <workItem from="1562656048465" duration="15600000" />
+      <workItem from="1562681776108" duration="1201000" />
+      <workItem from="1562683532280" duration="1498000" />
+      <workItem from="1562685133739" duration="4541000" />
+      <workItem from="1562700732118" duration="2592000" />
+      <workItem from="1562740629890" duration="23924000" />
+      <workItem from="1562858094152" duration="4470000" />
+      <workItem from="1562874717220" duration="1682000" />
+      <workItem from="1562913596700" duration="2972000" />
+      <workItem from="1562922771359" duration="6938000" />
+      <workItem from="1562929822121" duration="333000" />
+      <workItem from="1562930197608" duration="1270000" />
+      <workItem from="1562931516328" duration="9090000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="and changes 1">
+      <created>1562485633818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562485633818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="man changes 3">
+      <created>1562684508000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562684508000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26298000" />
+    <option name="totallyTimeSpent" value="134426000" />
   </component>
-  <component name="TodoView" selected-index="3">
+  <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -171,51 +375,52 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-51" width="1368" height="820" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="225" y="319" width="224" height="613" id="Project" order="0" sideWeight="0.63411456" visible="true" weight="0.13909224" />
-      <window_info id="Favorites" order="1" sideWeight="0.3658854" side_tool="true" weight="0.13909224" />
+      <window_info active="true" content_ui="combo" x="225" y="319" width="224" height="613" id="Project" order="0" sideWeight="0.6026012" visible="true" weight="0.2203514" />
+      <window_info id="Favorites" order="1" sideWeight="0.39739883" side_tool="true" weight="0.16837482" />
       <window_info id="Database" order="2" weight="0.32960477" />
       <window_info id="Key Promoter X" order="3" sideWeight="0.49918434" weight="0.32960477" />
-      <window_info anchor="bottom" id="Messages" weight="0.3294271" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" order="0" weight="0.38802084" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49926794" weight="0.328125" />
+      <window_info id="TODO" order="4" sideWeight="0.39739883" side_tool="true" weight="0.16837482" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32658958" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="1" weight="0.38802084" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3271028" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32898173" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49926794" visible="true" weight="0.48958334" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32794118" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49926794" weight="0.49421966" />
+      <window_info anchor="bottom" x="343" y="172" width="736" height="536" id="Terminal" order="11" type="WINDOWED" weight="0.19075145" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.34705883" />
-      <window_info anchor="bottom" id="Structure" order="13" sideWeight="0.50073206" side_tool="true" weight="0.85546875" />
+      <window_info anchor="bottom" id="Structure" order="13" sideWeight="0.50073206" side_tool="true" weight="0.8540462" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" x="225" y="319" width="224" height="613" id="Project" order="0" sideWeight="0.63411456" visible="true" weight="0.13909224" />
-      <window_info id="Favorites" order="1" sideWeight="0.3658854" side_tool="true" weight="0.13909224" />
+      <window_info active="true" content_ui="combo" x="225" y="319" width="224" height="613" id="Project" order="0" sideWeight="0.63095236" visible="true" weight="0.23133236" />
+      <window_info id="Favorites" order="1" sideWeight="0.3690476" side_tool="true" weight="0.23255815" />
       <window_info id="Database" order="2" weight="0.32960477" />
       <window_info id="Key Promoter X" order="3" sideWeight="0.49918434" weight="0.32960477" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" order="0" weight="0.38802084" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49926794" weight="0.328125" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49926794" weight="0.85546875" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32794118" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.34705883" />
-      <window_info anchor="bottom" id="Structure" order="13" sideWeight="0.50073206" side_tool="true" weight="0.85546875" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3294271" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="1" weight="0.38802084" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49926794" weight="0.328125" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49926794" weight="0.21323529" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.5309524" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.34705883" />
+      <window_info anchor="bottom" id="Structure" order="14" sideWeight="0.50073206" side_tool="true" weight="0.85546875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -272,7 +477,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="and changes 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="and changes 1" />
+    <MESSAGE value="man changes 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="man changes 3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
@@ -282,26 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="56">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/phpstorm64.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -309,27 +495,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/completejs/script.js">
+    <entry file="file://$PROJECT_DIR$/htmlacademy lvl3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="209" column="36" selection-start-line="209" selection-start-column="36" selection-end-line="209" selection-end-column="36" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/htmlacademy lvl3/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/hw1/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/completejs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="156">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 h/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebCademy/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="180" column="5" selection-start-line="180" selection-start-column="5" selection-end-line="180" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 h/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/phpstorm better comands.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lavric advanced verstka/package.json" />
+    <entry file="file://$PROJECT_DIR$/2019lvers/src/img/img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completejs/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/udemy_Petrech/scriptts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        <state relative-caret-position="91">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy_Petrech/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/src/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/build/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmp-dev/src/css/humans.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmp-dev/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmp-dev/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmp-dev/build/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="72" column="73" selection-start-line="72" selection-start-column="73" selection-end-line="72" selection-end-column="73" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmp-dev/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019lvers/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completejs/complete-javascript-course-master/4-DOM-pig-game/final/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="82" column="9" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completejs/pig game/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completejs/pig game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completejs/pig game/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completejs/pig game/challenges.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
