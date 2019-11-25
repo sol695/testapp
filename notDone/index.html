@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      display: flex;
+    }
+
+    button {
+      width: 50px;
+      height: 50px;
+      font-size: 25px;
+      margin: 2px;
+      cursor: pointer;
+      background: #607d8b;
+      border: none;
+      flex-direction: row;
+    }
+
+    .textview {
+      width: 217px;
+      margin: 5px;
+      font-size: 25px;
+      padding: 5px;
+      border: none;
+      color: #607d8b;
+    }
+
+    .main {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+
+    .bg {
+      background: linear-gradient(to right, #e91e63, #3f51b5);
+    }
+
+    .button {
+      height: 106px;
+    }
+
+    .block {
+      margin: 0 auto;
+      width: 500px;
+      background-color: #0A0A0A;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+
+    .final {
+      flex-direction: row;
+      flex-shrink: initial;
+      text-decoration: none;
+    }
+
+    .link {
+      height: 40px;
+      width: 40px;
+      color: #fff;
+      margin: 0 262px;
+      border: 3px solid #fff;
+      border-radius: 30px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column-reverse;
+      flex-wrap: wrap;
+    }
+  </style>
+  <!--  <script src="codewarstasks.js"></script>-->
+</head>
+<body>
+<div class="projectOne">
+  <button onclick="changePropertyView({'border-top-right-radius' :'25px'})
+">TopRightRadius
+  </button>
+  <button onclick="changePropertyView({'border-bottom-left-radius' :'25px'})
+">BottomLeftRadius
+  </button>
+  <button onclick="changePropertyView({'border-bottom-right-radius' :'25px'})
+">BottomRightRadius
+  </button>
+  <div id="myDev">
+    <p>Change this</p>
+  </div>
+  <div>
+    <input type="text" class="to-copy" placeholder="Type something..." aria-label="Type something">
+    <button class="write-btn">Copy to clipboard</button>
+  </div>
+  <div>
+    <h3 class="clipboard-results"></h3>
+    <button class="read-btn">Paste from clipboard</button>
+  </div>
+  <!-- end copy-->
+</div>
+<!-- start calc-->
+<div class="bg"></div>
+<div class="main">
+  <form name="form">
+    <label>
+      <input class="textview" name="textview">
+    </label>
+  </form>
+  <table>
+    <tr>
+      <td><input class="button" type="button" value="C" onclick="clean()"></td>
+      <td><input class="button" type="button" value="<" onclick="back()"></td>
+      <td><input class="button" type="button" value="/" onclick="insert('/')"></td>
+      <td><input class="button" type="button" value="X" onclick="insert('*')"></td>
+    </tr>
+    <tr>
+      <td><input class="button" type="button" value="7" onclick="insert(7)"></td>
+      <td><input class="button" type="button" value="8" onclick="insert(8)"></td>
+      <td><input class="button" type="button" value="9" onclick="insert(9)"></td>
+      <td><input class="button" type="button" value="-" onclick="insert('-')"></td>
+    </tr>
+    <tr>
+      <td><input class="button" type="button" value="4" onclick="insert(4)"></td>
+      <td><input class="button" type="button" value="5" onclick="insert(5)"></td>
+      <td><input class="button" type="button" value="6" onclick="insert(6)"></td>
+      <td><input class="button" type="button" value="+" onclick="insert('+')"></td>
+    </tr>
+    <tr>
+      <td><input class="button" type="button" value="1" onclick="insert(1)"></td>
+      <td><input class="button" type="button" value="2" onclick="insert(2)"></td>
+      <td><input class="button" type="button" value="3" onclick="insert(3)"></td>
+      <td rowspan=5><input class="button" type="button" value="=" onclick="equal()"></td>
+    </tr>
+    <tr>
+      <td colspan=2><input class="button" style="width:106px;" type="button" value="0" onclick="insert(0)"></td>
+      <td><input class="button" type="button" value="." onclick="insert('.')"></td>
+    </tr>
+  </table>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="block">
+  <ul class="final">
+    <li class="link"></li>
+    <li class="link"></li>
+    <li class="link"></li>
+    <li class="link"></li>
+    <li class="link"></li>
+    <li class="link"></li>
+    <li class="link"></li>
+  </ul>
+</div>
+<script src="codewarstasks.js"></script>
+</body>
+</html>
